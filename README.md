@@ -2,6 +2,10 @@
 <h2>Language : Vanilla Javascript + ASP Classic (Serverside Language) <br/>
 Extending session without refreshing the pages. 
 </h2> <br/>
+
+<h3>Should work with any serverside language (I think)</h4>
+
+<br/>
 <h4>Two things to note :</h4> 
 
 Idle Time   : How long before the prompt pop up. <br/>
