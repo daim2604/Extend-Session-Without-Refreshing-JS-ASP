@@ -24,7 +24,7 @@ Idle - Refer to when user is away from keyboard or when user hasn't been sending
 3. If user press the logout button, the page will be redirected to the logout page.<br/>
 4. Or if the user didn't respond to the popup after the buffer countdown reach 0, the page will be redirected to logoutpage. <br/>
 <br/><br/>
-The countdown code is 100% in Vanila Javascript, except for the page to reset timeout since it is serverside.<br/>
+The code is 100% in Vanila Javascript, except for the page to reset timeout since it is serverside.<br/>
 <br/>
 I'm a beginner programmer. <br/>
 Feedback and comments appreciated.<br/>
