@@ -1,3 +1,0 @@
-<%
-  response.write(session.timeout)
-%>
